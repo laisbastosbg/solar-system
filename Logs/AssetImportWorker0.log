@@ -553,3 +553,4 @@ Received Import Request.
   path: Assets/Planets of the Solar System 3D/Materials/URP_Venus_Lod.mat
   artifactKey: Guid(91d202aeca59041238b6784ce9aecde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Planets of the Solar System 3D/Materials/URP_Venus_Lod.mat using Guid(91d202aeca59041238b6784ce9aecde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd706aa5bac9b182e499b31e6fb7cf4a1') in 0,039595 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
